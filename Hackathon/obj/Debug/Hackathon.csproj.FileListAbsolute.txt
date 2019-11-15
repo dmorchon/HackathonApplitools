@@ -1,0 +1,96 @@
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\NUnit3.TestAdapter.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\nunit.engine.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\nunit.engine.api.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\linux\native\brolib_x64.so
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\linux\native\brolib_x86.so
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\win\native\brolib_x64.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\win\native\brolib_x64.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\win\native\brolib_x86.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\runtimes\win\native\brolib_x86.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Hackathon.dll.config
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Hackathon.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Hackathon.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Brotli.Core.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\CssParser.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Eyes.Sdk.DotNet.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Eyes.Selenium.DotNet.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\HtmlAgilityPack.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Ionic.Zip.Reduced.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Newtonsoft.Json.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\nunit.framework.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\System.Runtime.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\WebDriver.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Eyes.Sdk.DotNet.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\HtmlAgilityPack.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\HtmlAgilityPack.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\Newtonsoft.Json.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\nunit.framework.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\nunit.framework.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\bin\Debug\WebDriver.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.CopyComplete
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\obj\Debug\Hackathon.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\obj\Debug\Hackathon.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon\Hackathon\obj\Debug\Hackathon.csprojAssemblyReference.cache
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\NUnit3.TestAdapter.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\nunit.engine.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\nunit.engine.api.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\linux\native\brolib_x64.so
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\linux\native\brolib_x86.so
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\win\native\brolib_x64.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\win\native\brolib_x64.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\win\native\brolib_x86.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\runtimes\win\native\brolib_x86.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Hackathon.dll.config
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Hackathon.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Hackathon.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Brotli.Core.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\CssParser.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Eyes.Sdk.DotNet.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Eyes.Selenium.DotNet.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\HtmlAgilityPack.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Ionic.Zip.Reduced.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Newtonsoft.Json.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\nunit.framework.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\System.Runtime.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\WebDriver.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Eyes.Sdk.DotNet.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\HtmlAgilityPack.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\HtmlAgilityPack.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\Newtonsoft.Json.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\nunit.framework.pdb
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\nunit.framework.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\bin\Debug\WebDriver.xml
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\obj\Debug\Hackathon.csprojAssemblyReference.cache
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\obj\Debug\Hackathon.csproj.CopyComplete
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\obj\Debug\Hackathon.dll
+D:\UAT\Test Applitools\Hackathon\Hackathon Git\HackathonApplitools\Hackathon\obj\Debug\Hackathon.pdb
