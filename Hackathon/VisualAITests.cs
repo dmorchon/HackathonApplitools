@@ -25,10 +25,11 @@ namespace Hackathon
 
         private EyesRunner runner;
         private Eyes eyes;
+        private static BatchInfo batch;
 
         private IWebDriver driver;
-        [SetUp]
-        public void BeforeEach()
+        [OneTimeSetUp]
+        public void BeforeAll()
         {
             //Initialize the Runner for your test.
             runner = new ClassicRunner();
@@ -37,6 +38,15 @@ namespace Hackathon
             eyes = new Eyes(runner);
             eyes.ApiKey = "i21cQTDmsqy5Cnqk7sEVZ2PlDgTSef25xbC102w56i107dU110";
 
+            //Set batch to agrupe tests
+            batch = new BatchInfo("Hackathon");
+            batch.SequenceName = "Hackathon";
+            eyes.Batch = batch;
+        }
+
+        [SetUp]
+        public void BeforeEach()
+        {
             // Use Chrome browser
             //We need the chromedriver in this file on our PC and we need download chromedriver of our version of chrome (My case is 78)
             driver = new ChromeDriver(@"C:\chromedriver_win32_78");
@@ -293,6 +303,7 @@ namespace Hackathon
         public void Test05DynamicGif()
         {
             eyes.Open(driver, "Hackathon test", "Dynamic Content Gif Test", new Size(800, 600));
+            eyes.ForceFullPageScreenshot = false;
             eyes.MatchLevel = MatchLevel.Content;
             driver.Manage().Window.Size = new Size(800, 600);
             driver.Url = URL + "?showAd=true";
@@ -312,7 +323,7 @@ namespace Hackathon
             eyes.CloseAsync();
         }
 
-        [TearDown]
+        [OneTimeTearDown]
         public void AfterEach()
         {
             // Close the browser.

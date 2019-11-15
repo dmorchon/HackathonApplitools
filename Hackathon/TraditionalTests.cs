@@ -26,7 +26,7 @@ namespace Hackathon
 
         private IWebDriver driver;
        
-        [SetUp]
+        [OneTimeSetUp]
         public void BeforeEach()
         {
             // Use Chrome browser
